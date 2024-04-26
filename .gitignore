@@ -8,6 +8,8 @@ cscope.*
 
 # Ignore build directory
 build/
+deploy/
+tools/fwu_gen_metadata/src/__pycache__/
 
 # Ignore build products from tools
 tools/**/*.o
